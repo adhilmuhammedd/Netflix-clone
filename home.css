@@ -1,0 +1,140 @@
+#id1{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 50px;
+    color: white;
+}
+#id2{
+    text-align: center;
+    color: white;
+}
+#id3{
+    text-align: center;
+    color: white;
+}
+header{
+     background-image:url(https://analyticsindiamag.com/wp-content/uploads/2019/05/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d.jpg);
+    background-size: cover; 
+    height: 1000px;
+    margin-top: -201px;
+}
+#main1{
+    padding-top: 170px;
+}
+#id4{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.027);
+    color: rgba(0, 0, 0, 0.021);
+}
+#id5{
+    margin-left: 5px;
+    background-color: red;
+    color: rgba(252, 248, 248, 0.945);
+}
+#logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 70px;
+}
+.logo{
+    background-color: rgba(214, 179, 179, 0);
+    margin-top: 5px;
+    width: 150px;
+    height: 40px;
+}
+#sl{
+    height: 40px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.397);
+    width: 95px;
+    margin-left: 750px;
+    margin-top: 95px;
+}
+.b2{
+    background-color: black;
+    color: rgba(241, 235, 235, 0.979);
+}
+#ff11{
+    margin-left: 20px;
+    color: white;
+}
+#t11{
+    margin-left: 120px;
+}
+#select{
+    margin-left: 120px;
+}
+#full{
+    background-color: black;
+}
+#full2{
+    background-color: black;
+    height: 1000px;
+}
+#last{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.hallo{
+    
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+#razi{
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.767);
+}
+#razi2{
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.808);
+}
+#razi3{
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.843);
+}
+#razi4{
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.842);
+}
+#razi5{
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.843);
+}
+#razi6{
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.829);
+}
+.foot2{
+    background-color: black;
+    color: rgb(12, 121, 218);
+}
+.table{
+    background-color: black;
+}
+#ttt{
+    font-size: 20px;
+}
+#rrr{
+    font-size: 20px;
+}
+#iii{
+    font-size: 20px;
+}
+#ppp{
+    font-size: 20px;
+}
+.card{
+    background-color: rgba(27, 27, 100, 0.733);
+    color: aliceblue;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+#more{
+    color: aliceblue;
+    margin-left: 80px;
+}
